@@ -1,5 +1,7 @@
 # License Plate Detection using OpenCV, YOLOv5, and EasyOCR
 
+https://github.com/Satzil/License-Plate-Detection-/assets/95362584/6cbbfc0e-38f0-4d94-83a4-d10e67085728
+
 ## Overview
 
 This project aims to implement a license plate detection system using computer vision techniques. The project leverages the power of OpenCV for image processing, YOLOv5 for object detection, and EasyOCR for optical character recognition.
@@ -25,7 +27,7 @@ This project aims to implement a license plate detection system using computer v
 
 
 
-https://github.com/Satzil/License-Plate-Detection-/assets/95362584/6cbbfc0e-38f0-4d94-83a4-d10e67085728
+
 
 
 
