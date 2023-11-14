@@ -22,3 +22,10 @@ This project aims to implement a license plate detection system using computer v
 4.  **Optical Character Recognition with EasyOCR:** The cropped license plate regions are processed using EasyOCR to extract the alphanumeric characters present on the plates.
 
 5.  **Output and Visualization:** The final output includes the original image with bounding boxes around detected license plates and the extracted text from those plates.
+
+
+
+https://github.com/Satzil/License-Plate-Detection-/assets/95362584/6cbbfc0e-38f0-4d94-83a4-d10e67085728
+
+
+
